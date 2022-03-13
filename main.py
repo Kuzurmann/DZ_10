@@ -33,5 +33,5 @@ def skills(skill):
    str_candidates += "</pre>"
    return str_candidates
 
-app.run(debug=True)
+app.run()
 
